@@ -1,6 +1,6 @@
 # Flight Fare Prediction: 
 
-## Table of Content :
+## Table of Content 
   * [Overview](#overview)
   * [Motivation](#motivation)
   * [Installation](#installation)
